@@ -1,0 +1,20 @@
+{(Array);}
+-Array is collection of similar Type of data
+int [] a; --declaration
+a = new int[100] --memomry allocation
+
+int [] a = {1,2,3,3,4,4,123,324,5,55}; --declar + initilige
+
+
+
+
+
+
+
+
+
+
+
+
+
+
